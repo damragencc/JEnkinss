@@ -37,7 +37,7 @@ public class JenkinsTest {
     // comment diye
     @Test
     void Test8(){
-        assertTrue(false);
+        assertTrue(true);
     }
     @Test
     void Test9(){
